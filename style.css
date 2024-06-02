@@ -168,6 +168,8 @@
   .skills__text {
     color: var(--secondary-text-color);
     text-align: justify;
+    display: flex;
+    justify-content: space-around;
   }
 
   /* Experience and additional info styles */
